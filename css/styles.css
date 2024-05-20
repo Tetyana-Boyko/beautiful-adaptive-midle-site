@@ -665,7 +665,6 @@ body {
   .portfolio-list {
     flex-direction: column;
     gap: 48px;
-    flex-wrap: wrap;
   }
 
   .portfolio-list-item {
@@ -681,7 +680,6 @@ body {
   .portfolio-list {
     column-gap: 24px;
     row-gap: 72px;
-    flex-wrap: wrap;
   }
 
   .portfolio-list-item {
@@ -698,7 +696,6 @@ body {
     display: flex;
     column-gap: 24px;
     row-gap: 48px;
-    flex-wrap: wrap;
   }
   .portfolio-list-item {
     width: calc((100% - 48px) / 3);
